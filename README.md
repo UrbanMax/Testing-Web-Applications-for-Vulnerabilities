@@ -2,7 +2,7 @@
 
 Each of these tools serves a different purpose in the realm of network and security testing:
 
-Burp Suite (often referred to as "buro-swip"): This is a comprehensive platform for performing security testing of web applications. It includes various tools to help with tasks like scanning for vulnerabilities, intercepting and modifying HTTP requests, and analyzing responses.
+Burp Suite: This is a comprehensive platform for performing security testing of web applications. It includes various tools to help with tasks like scanning for vulnerabilities, intercepting and modifying HTTP requests, and analyzing responses.
 
 BeEF (Browser Exploitation Framework): BeEF is a tool specifically designed to test and exploit web browsers. It focuses on identifying vulnerabilities within the client-side of web applications. BeEF allows testers to assess the security posture of browsers and the underlying systems by using client-side attack vectors.
 
